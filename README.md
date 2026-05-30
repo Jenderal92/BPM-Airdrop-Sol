@@ -10,8 +10,6 @@ Python 2.7
 
 Buy Coffee :
 <li>Bitcoin $: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</li>
-<li>Buymeacoffee $: https://www.buymeacoffee.com/shin.code</li>
-<li>Ko-Fi $: https://ko-fi.com/shincode403</li>
 
 ![Screenshot_2024-06-12-20-56-36-943-edit_com termux](https://github.com/Jenderal92/BPM-Airdrop-Sol/assets/59664965/4746de22-d429-40dd-8eb0-5040bb596478)
 
